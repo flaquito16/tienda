@@ -1,0 +1,21 @@
+*{
+  text-align: center;
+}
+
+
+.wrapper{
+  margin: auto;
+  width: 90vw;
+  min-width: 100vw;
+
+}
+.titulo{
+  color: red;
+}
+.card{
+  width: 30%;
+  display: inline-block;
+}
+.card-image{
+  width: 100%;
+}
